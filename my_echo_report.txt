@@ -1,0 +1,13 @@
+My Echo Report
+Heidi Blank
+
+What command did you implement?
+- I implemented the echo command with the -n flag and the -E flag.
+
+What was a hurdle?
+- The biggest hurdle was figuring out the best way to iterate
+through the user's input in order to print everything out,
+but also implement the flags.
+
+What was easy?
+- The easy part was using the print function for everything.
